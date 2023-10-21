@@ -1,0 +1,97 @@
+.name{
+    
+    transition: 0.3s ease;
+}
+.name:hover{
+    background-color: #e74c3c;
+}
+
+#background{
+    
+}
+.middle-text h1{
+    color: #1C1C1C;
+    font-size: 45px;
+    font-family: 'Manrope', sans-serif;
+     
+}
+.card img{
+    height: 500px;
+    width:  300px;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    
+}
+.card {
+background:  linear-gradient(180deg, #F4F4F4 0%, rgba(244, 244, 244, 0) 100%);
+border: none;
+box-shadow: #1C1C1C;
+border-radius: 20px;
+}
+.card-body h5{
+    color: #1C1C1C;
+    font-size: 25px;
+    font-family: 'Manrope', sans-serif;
+    font-weight: 800;
+    word-wrap: break-word;
+    text-align: center;
+    margin-top: 30px;
+}
+/* grid */
+#grid{
+    margin-top: 100px;
+}
+.first-g{
+    background: linear-gradient(270deg, #FF0000 0%, #FF8938 100%);
+    border-radius: 10px;
+    
+}
+.second-g{
+    background: rgba(87, 118, 57, 0.10);
+    border-radius: 10px;
+    
+}
+.third-g{
+    background: rgba(230, 166, 35, 0.10);
+    border-radius: 10px;
+    
+}
+.fourth-g{
+    background: linear-gradient(270deg, #FF0000 0%, #FF8938 100%);
+    border-radius: 10px;
+    
+}
+#clients-section{
+    background: linear-gradient(270deg, #FF0000 0%, #FF8938 100%);
+    color: #F4F4F4;
+    /* font-weight: 800; */
+    border-radius: 10px;
+    margin-top: 80px;
+}
+.card-clients{
+    height: 250px;
+    width: 443px;
+    background: white;
+    border-radius: 8px;
+    color: black;
+    box-shadow: 10px 10px 10px 0px rgba(0, 0, 0, 0.5);
+}
+.btn{
+    color: #FF0000;
+}
+.tea-card{
+    height: 500px;
+    width: 310px;
+}
+.footer{
+    background-color: #222f3d;
+    color: white;
+    height: 200px;
+    
+}
+ul a{
+    display: block;
+    
+}
